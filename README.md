@@ -1,1 +1,2 @@
-Treinamento: Iniciando Projeto Raact do zero
+Treinamento: Iniciando Projeto React do zero
+...
